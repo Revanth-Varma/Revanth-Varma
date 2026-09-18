@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Revanth Varma from India<br><br>- 🔭 I’m student at VIT, Bhimavaram<br>- 📚 I'm currently pursuing Final Year in B.Tech<br>- ⚡ In my free time I focus mostly on Web Development</p>
+<p align="left">I'm Revanth Varma from India<br><br>- 🔭 I’m a Senior Associate at Statestreet <br>- 📚 I'm currently working as a Data Engineer, developing and maitaining data integration & ETL Pipelines</p>
 
 ###
 
