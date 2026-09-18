@@ -38,7 +38,7 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/snowflake" height="40" alt="snowflake logo" />
   <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/talend.svg" height="40" alt="Talend logo" />
+  <img src="https://cdn.simpleicons.org/talend/1675BC" height="40" alt="Talend logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
