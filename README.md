@@ -27,7 +27,14 @@
 
 ###
 
-<p align="left">I'm Revanth Varma from India<br><br>- 🔭 I’m a Senior Associate at Statestreet <br>- 📚 I'm currently working as a Data Engineer, developing and maitaining data integration & ETL Pipelines</p>
+<p align="left">
+I'm Revanth Varma from India.<br><br>
+- 💼 Senior Associate at State Street<br>
+- 🔧 Data Engineer with experience in data integration, data validation, devloping and testing of ETL pipelines<br>
+- ❄️ Working with Snowflake, Talend, SQL Server and Python<br>
+- 🛠️ Experienced in building and maintaining data pipelines and data transformation workflows<br>
+- 📊 Interested in building reliable and scalable data solutions
+</p>
 
 ###
 
